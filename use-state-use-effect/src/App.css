@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.user-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.user-card h2 {
+  color: #333;
+}
+
+.user-card p {
+  color: #555;
+}
